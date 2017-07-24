@@ -4,7 +4,7 @@
 第一次弄，仅仅作为一个好的开始。
 ###
 目录
->     
+```
 第1部分 Spring的核心 
 第1章 Spring之旅 3 
 第2章 装配Bean 33 
@@ -33,6 +33,7 @@
 第19章 使用Spring发送Email 517 
 第20章 使用JMX管理Spring Bean 529 
 第21章 借助Spring Boot简化Spring开发 547
+```
 ***
 ![手写的笔记](https://github.com/Kibos/SpringInAction4th_Book/blob/master/spring01.jpg) 
 
